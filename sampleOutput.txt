@@ -1,0 +1,89 @@
+a(5): 4, 7, 7, 9, 11
+addison-wesley(1): 13
+an(1): 3
+and(1): 11
+another(1): 2
+architectural(1): 6
+are(1): 6
+at(1): 6
+attitude(1): 1
+be(3): 5, 9, 10
+bit(3): 5, 8, 9
+budd(1): 13
+by(3): 4, 10, 10
+c(2): 2, 13
+can(1): 10
+case(2): 9, 10
+combination(1): 11
+designers(1): 6
+divided(1): 6
+do(1): 2
+either(1): 10
+example(1): 2
+extended(1): 9
+features(1): 1
+for(2): 1, 13
+further(1): 3
+have(1): 1
+holding(1): 4
+if(1): 5
+illustrate(1): 3
+imagine(1): 3
+in(1): 9
+influence(1): 3
+integer(1): 3
+into(2): 5, 7
+is(2): 4, 9
+issue(1): 7
+java(1): 13
+language(1): 2
+level(1): 6
+location(1): 4
+look(1): 6
+machine(1): 6
+machines(2): 7, 8
+masks(1): 11
+means(1): 10
+most(1): 8
+move(1): 7
+moved(1): 5
+negative(2): 4, 9
+not(2): 1, 2
+number(2): 4, 9
+of(3): 9, 11, 11
+on(3): 6, 7, 8
+one(1): 4
+other(2): 8, 10
+p(1): 13
+pay(1): 1
+permeates(1): 2
+position(2): 5, 8
+programmers(2): 1, 13
+right(1): 7
+right-shifted(1): 4
+shift(1): 7
+should(2): 1, 5
+sign(1): 8
+significant(1): 8
+simulated(1): 10
+software(1): 10
+some(1): 7
+tests(1): 11
+that(3): 1, 2, 3
+the(8): 1, 2, 5, 6, 8, 8, 9, 10
+they(1): 2
+this(2): 3, 7
+timothy(1): 13
+to(1): 1
+topmost(1): 5
+use(1): 2
+using(1): 10
+value(1): 5
+variable(1): 4
+we(1): 5
+what(1): 5
+which(1): 9
+while(1): 8
+will(3): 3, 7, 9
+zero(1): 7
+# keys: 88  total path length: 720  avg path length: 8.181818181818182
